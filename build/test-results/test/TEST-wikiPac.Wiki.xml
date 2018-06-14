@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="wikiPac.Wiki" tests="9" skipped="0" failures="0" errors="0" timestamp="2018-06-14T02:12:40" hostname="IBM716-PBR0RTX" time="24.243">
+  <properties/>
+  <testcase name="testWiki0" classname="wikiPac.Wiki" time="3.753"/>
+  <testcase name="testWiki1" classname="wikiPac.Wiki" time="2.279"/>
+  <testcase name="testWiki2" classname="wikiPac.Wiki" time="0.845"/>
+  <testcase name="testWiki3" classname="wikiPac.Wiki" time="1.026"/>
+  <testcase name="testWiki4" classname="wikiPac.Wiki" time="0.039"/>
+  <testcase name="testWiki5" classname="wikiPac.Wiki" time="0.046"/>
+  <testcase name="testWiki6" classname="wikiPac.Wiki" time="0.048"/>
+  <testcase name="testWiki7" classname="wikiPac.Wiki" time="1.734"/>
+  <testcase name="travelex" classname="wikiPac.Wiki" time="14.47"/>
+  <system-out><![CDATA[The title check passed
+The suggestion check passed
+The results check passed
+The article title check passed
+The article TOC check passed
+The article References check passed
+The user isn't logged in & the check passed
+The paging check passed
+The 3rd swiped item check passed
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
