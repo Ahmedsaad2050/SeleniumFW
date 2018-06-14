@@ -1,16 +1,26 @@
-Testing Automation framework using Java with Selenium:
-I made this framework as a sample for testing Wikipedia website for some features.
+*******Testing Automation framework using Java with Selenium:
+I made this framework as a sample for testing Wikipedia website for some features and it's like a template if you would like to have an Automation QA Front End jumpstart.
 
-This Framework is an implementation for the Front-End Testing Automation using Gradle.
+This Framework is an implementation for the Front-End Testing Automation using Gradle,Java and Selenium.
 
 
-1)Download and install the java SDK/JDK
+#Steps to run:
+
+1)Download and install the java JDK/JRE
 2)Clone the project: https://github.com/Ahmedsaad2050/SeleniumFW.git
 3)Start running tests using the gradlew file in the project directory from Command Line.
 
-Helping Instructions:
-*Open CMD window, navigate to the project path(ex."cd c:\Workplace\SeleniumFW") and then Type "gradlew build" for building and running the tests.
+#Helping Instructions:
+  *Open CMD window, navigate to the project path(ex."cd c:\Workplace\SeleniumFW") and then Type "gradlew build" for building and running      the tests.
 
-*For reviewing the testing results and the report: navigate to this path "cd c:\....\SeleniumFW\build\reports\tests\test\classes"
+  *For reviewing the testing results and the report: navigate to this path "cd c:\Workplace\SeleniumFW\build\reports\tests\test\classes"
 
-You'll find the file "wikiPac.Wiki.html" with the testing status.
+  You'll find the file "wikiPac.Wiki.html" with the testing status.
+
+
+#Another used gradle commands:
+  gradlew build
+  gradlew clean
+  gradlew test
+
+Good Luck :)
