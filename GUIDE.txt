@@ -11,7 +11,7 @@ This Framework is an implementation for the Front-End Testing Automation using G
 3)Start running tests using the gradlew file in the project directory from Command Line.
 
 #Helping Instructions:
-  *Open CMD window, navigate to the project path(ex."cd c:\Workplace\SeleniumFW") and then Type "gradlew build" for building and running      the tests.
+  *Open CMD window, navigate to the project path(ex."cd c:\Workplace\SeleniumFW") and then Type "gradlew build" for building and running the tests.
 
   *For reviewing the testing results and the report: navigate to this path "cd c:\Workplace\SeleniumFW\build\reports\tests\test\classes"
 
